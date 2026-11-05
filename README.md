@@ -62,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KalleshS/Leetcode_Java/tree/master/0011-container-with-most-water) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KalleshS/Leetcode_Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KalleshS/Leetcode_Java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KalleshS/Leetcode_Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KalleshS/Leetcode_Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KalleshS/Leetcode_Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Trie
 |  |
 | ------- |
@@ -84,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KalleshS/Leetcode_Java/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/KalleshS/Leetcode_Java/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/KalleshS/Leetcode_Java/tree/master/0232-implement-queue-using-stacks) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KalleshS/Leetcode_Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KalleshS/Leetcode_Java/tree/master/0020-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KalleshS/Leetcode_Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## String Matching
 |  |
 | ------- |

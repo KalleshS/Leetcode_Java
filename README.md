@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/KalleshS/Leetcode_Java/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/KalleshS/Leetcode_Java/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KalleshS/Leetcode_Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/KalleshS/Leetcode_Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/KalleshS/Leetcode_Java/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/KalleshS/Leetcode_Java/tree/master/0232-implement-queue-using-stacks) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KalleshS/Leetcode_Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/KalleshS/Leetcode_Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -131,8 +133,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/KalleshS/Leetcode_Java/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/KalleshS/Leetcode_Java/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/KalleshS/Leetcode_Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/KalleshS/Leetcode_Java/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/KalleshS/Leetcode_Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->

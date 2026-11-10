@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KalleshS/Leetcode_Java/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KalleshS/Leetcode_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KalleshS/Leetcode_Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/KalleshS/Leetcode_Java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/KalleshS/Leetcode_Java/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/KalleshS/Leetcode_Java/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KalleshS/Leetcode_Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/KalleshS/Leetcode_Java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
@@ -142,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KalleshS/Leetcode_Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/KalleshS/Leetcode_Java/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->

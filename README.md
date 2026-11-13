@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KalleshS/Leetcode_Java/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KalleshS/Leetcode_Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KalleshS/Leetcode_Java/tree/master/0918-maximum-sum-circular-subarray) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/KalleshS/Leetcode_Java/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KalleshS/Leetcode_Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KalleshS/Leetcode_Java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KalleshS/Leetcode_Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KalleshS/Leetcode_Java/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KalleshS/Leetcode_Java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/KalleshS/Leetcode_Java/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Stack
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/KalleshS/Leetcode_Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KalleshS/Leetcode_Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/KalleshS/Leetcode_Java/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/KalleshS/Leetcode_Java/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KalleshS/Leetcode_Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KalleshS/Leetcode_Java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/KalleshS/Leetcode_Java/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KalleshS/Leetcode_Java/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KalleshS/Leetcode_Java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
